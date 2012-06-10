@@ -1,3 +1,6 @@
+/*This is a simple server program which listens to client requests
+* and sends its own code to client.
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <errno.h>
